@@ -25,3 +25,4 @@ def set_data():
     phone = phone_data()
     address = address_data()
     return name, surname, phone, address
+# add 23.05.2024

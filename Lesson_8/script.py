@@ -192,3 +192,4 @@ def copy_paste_data():
             file.write(element)
 
     print('Запись ' + str(number_journal) + ' скопирована успешно')
+# add 23.05.2024
